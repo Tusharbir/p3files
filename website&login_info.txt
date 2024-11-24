@@ -1,0 +1,4 @@
+website: https://tang1s.myweb.cs.uwindsor.ca/
+to login as an admin: 123456789
+to login as a manager: 234567890
+to login as an employee: 123456789, 234567890, 345678901 and 45678901

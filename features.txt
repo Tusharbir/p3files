@@ -1,0 +1,25 @@
+Administration:
+1.show departments: show all dept info
+2.show positions: show all positions info
+3.show employees: show all employees info
+4.show department locations: show all dept location info
+5.show projects: show all projects info
+6.show employee benefits: show all employee benefits info
+7.show work on: show all works on info
+8.show dependents: show all dependents info
+9.find dependents: find dependents by ssn
+10.find employee: find employee info by ssn
+11.add employee
+12.delete employee
+13.total salary
+14.average salary
+
+Manager:
+1.project lookup: find project by project number
+2.my department: get all employees info in dept2(since manager is the only supervisor with a team)
+
+Employee:
+1.my salary: show my salary with my position by ssn
+2.my work: show my work on info with project name by ssn
+3.my benefit: show my benefit by ssn
+4.my work: find dept location with dept number and dept name by ssn
